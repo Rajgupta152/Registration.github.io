@@ -1,0 +1,26 @@
+#registration{
+  font-size: 17px;
+  width: 500px;
+  height: 500px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 25px 200px;
+  color: #d93b3b;
+  background-color:aqua;
+  border: none;
+  border-radius: 5px;
+  margin: 0 0 0 30%;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+input{
+    background-color: rgb(60, 73, 73);
+    width: 500px;
+}
+button{
+  color: aqua;
+  
+}
